@@ -7,7 +7,6 @@ export default function Home() {
         <p className='text-sm mb-2'>product, name description category</p>
         <a className='font-semibold' target='_blank' href="https://chatgpt.com/c/9f008ebe-62d8-49f2-8b30-ecc3f13c09de">Model.js</a>
       </div>
-
     </main>
   );
 }
